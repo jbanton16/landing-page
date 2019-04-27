@@ -28,7 +28,7 @@ nav li:hover{
 }
 
 .image-area{
-	background-image: url(wallpaper.jpg);
+	background-image: url('wallpaper.jpg');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 100% 650px;
